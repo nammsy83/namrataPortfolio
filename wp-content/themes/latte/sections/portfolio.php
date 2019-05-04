@@ -10,6 +10,7 @@
 					<div class="portfolio-hover">
 						<div class="portfolio-hover-content">
 							<i class="fa fa-plus fa-3x"></i>
+							
 						</div>
 					</div>
 					<div class="img-wrap">
