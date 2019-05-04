@@ -14,7 +14,7 @@
 						</div>
 					</div>
 					<div class="img-wrap">
-						<img data-src="<?php bloginfo('stylesheet_directory') ?>/assets/images/savingpanda.png" class="lazy-image">
+						<img data-src="<?php bloginfo('stylesheet_directory') ?>/assets/images/savingpandablog.png" class="lazy-image">
 					</div>
 					<div class="portfolio-caption">
 						<h4>Saving Panda</h4>
