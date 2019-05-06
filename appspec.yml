@@ -2,9 +2,9 @@ version: 0.0
 os: linux
 files:
    - source: /
-     destination: /var/www/html
+     destination: /opt/bitnami/apps/wordpress/htdocs
 permissions:
-   - object: /var/www/html
+   - object: /opt/bitnami/apps/wordpress/htdocs
      pattern: "**"
      owner: apache
      group: apache
